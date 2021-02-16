@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Ashley Ringer McDonald is an associate professor of chemistry at Cal Poly San Luis Obispo. She received her bachelor's degree from Mississippi College and her Ph.D. from the Georgia Institute of Technology. Her research focuses on using multiscale modeling to study molecular interactions in complex chemical contexts. She is an Associate of the [Molecular Sciences Software Institute (MolSSI)](molssi.org) and a member of the [MERCURY Consortium](http://mercuryconsortium.org/). She also leads [Psi4Education](https://psicode.org/posts/psi4education/), the education and outreach program of the quantum chemistry software package Psi4.
 
-### More Information
+### Research Interests
 
-A place to include any other types of information that you'd like to include about yourself.
+Research in our group focuses on computational characterizations of molecular interactions in complex chemical contexts.  We also have a general interest in teaching computer programming in discipline-specific contexts and increasing students' computational compentence.  See our [Publications page](https://armcdona.github.io/pubs/) to check our recent publications.
 
 ### Contact me
 
