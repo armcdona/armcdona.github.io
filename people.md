@@ -4,7 +4,7 @@ title: Group Members
 permalink: /people/
 ---
 
-<img src="images/ARM_molssi.jpg" alt="Picture of Ashley Ringer McDonald" width="100" style="float: left; margin-top: 0px; margin-right: 10px" />
+<img src="{{ site.baseurl}}/images/ARM_molssi.jpg" alt="Picture of Ashley Ringer McDonald" width="100" style="float: left; margin-top: 0px; margin-right: 10px" />
 
 Ashley Ringer McDonald is an associate professor of chemistry at Cal Poly San Luis Obispo. She received her bachelor's degree from Mississippi College and her Ph.D. from the Georgia Institute of Technology. Her research focuses on using multiscale modeling to study molecular interactions in complex chemical contexts. She is an Associate of the Molecular Sciences Software Institute (MolSSI) and a member of the MERCURY Consortium. She also leads Psi4Education, the education and outreach program of the quantum chemistry software package Psi4.  
 
