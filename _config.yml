@@ -9,7 +9,7 @@ name: Ashley Ringer McDonald, Ph.D.
 description: Computational Chemistry Group at Cal Poly San Luis Obispo
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: {{ site.baseurl }}/images/CP_logo.jpg
+avatar: http://armcdona.github.io/images/CP_logo.jpg
 
 #
 # Flags below are optional
